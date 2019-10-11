@@ -7,4 +7,3 @@ Other: macOS,Sketch,Linux,Docker.
 
 
 https://github.com/dwilkinson167
-Email:Dylan@wilko.dev
