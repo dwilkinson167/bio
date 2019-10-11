@@ -1,0 +1,10 @@
+I build modern web applications and software with the following:
+
+Front end: JavaScript(node/react),GraphQL,Html,CSS
+Back-end: Mysql,Php,.NET,Python,Swift,Java,Json,Aws,Azure. 
+Other: macOS,Sketch,Linux,Docker.
+
+
+
+https://github.com/dwilkinson167
+Email:Dylan@wilko.dev
